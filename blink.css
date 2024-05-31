@@ -1,0 +1,26 @@
+.abc{
+    animation: blinker 1.5s linear infinite;
+    color: red;
+    font-size:x-large ;
+}
+
+@keyframes blinker {
+    50% {
+    opacity: 0;
+    }
+}
+
+.abc2{
+    animation: blinker 1.5s linear infinite;
+    color: white;
+    font-size:x-large ;
+}
+
+@keyframes blinker {
+    55% {
+    opacity: 0;
+    }
+}
+
+
+/*FOR THE NAME INPUT*/
