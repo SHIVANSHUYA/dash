@@ -4,6 +4,6 @@ you can play it on:-
 
 shivanshuya.github.io/dash
 
-# or on 
+or on 
 
 .netlify.app
